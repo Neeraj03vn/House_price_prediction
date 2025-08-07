@@ -10,7 +10,7 @@ This project predicts house prices based on features like area, location, bedroo
 
 ## How to Run:
 1. Install dependencies: `pip install -r requirements.txt`
-2. Open Jupyter Notebook: `jupyter notebook house_price_model.ipynb`
+2. Open Jupyter Notebook: `jupyter notebook houseprice.ipynb`
 3. Run each cell to train and test the model
 
 ## Output:
